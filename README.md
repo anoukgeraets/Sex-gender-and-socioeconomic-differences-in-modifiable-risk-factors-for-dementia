@@ -13,7 +13,7 @@ The English Longitudinal Study of Ageing is administered by a team of researcher
 
 ## Main Code Details
 
-We use data from Wave 1 (2002/2003) till Wave 9 (2018/2019). Since Wave 4 (2008/2009; n=9,886) includes a large number of modifiable risk factors for dementia, it was considered the baseline for this study. In case of missing information on socioeconomic status, risk factors for dementia or potential confounders, non-missing data from adjacent waves (in most cases Wave 3 (2006/2007) or Wave 5 (2010/2011) was used. The most recent data files available on September 29th, 2022, were downloaded that day. 
+We use data from Wave 1 (2002/2003) till Wave 9 (2018/2019). Since Wave 4 (2008/2009; n=9,886) includes a large number of modifiable risk factors for dementia, it was considered the baseline for this study. In case of missing information on socioeconomic status, risk factors for dementia or potential confounders, non-missing data from adjacent waves (in most cases Wave 3 (2006/2007) or Wave 5 (2010/2011) was used. The most recent data files available on September 29th, 2022, were downloaded that day. Information about the operationalization of the variables can be find in the Supplemental Material https://static-content.springer.com/esm/art%3A10.1038%2Fs41598-022-27368-4/MediaObjects/41598_2022_27368_MOESM1_ESM.pdf. 
 
 ## Main analyses sex/gender differences
 
